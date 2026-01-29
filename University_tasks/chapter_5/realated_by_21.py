@@ -1,4 +1,4 @@
-credits = int(input('inter how many credits: '))
+credits = int(input('enter how many credits: '))
 
 if credits <= 30:
     print("the student is a freshman")
