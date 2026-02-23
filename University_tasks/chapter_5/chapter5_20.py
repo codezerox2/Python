@@ -1,5 +1,5 @@
 # get temperature and unit
-temperature = int(input("inter temperature: "))
+temperature = int(input("enter temperature: "))
 unit = input("inter the unit F/C: ").upper()
 #convert the unit
 F = 9/5*(temperature+32)
