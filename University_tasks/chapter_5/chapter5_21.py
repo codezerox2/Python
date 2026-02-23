@@ -1,4 +1,4 @@
-temprature = int(input("inter temprature(Celius): "))
+temprature = int(input("enter temprature(Celius): "))
 absolute_zero = -273.115
 if temprature <= absolute_zero:
     print("that the temperature is invalid because it is below absolute zero")
